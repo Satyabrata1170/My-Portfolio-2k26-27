@@ -9,7 +9,7 @@ const portfolioData = {
   aboutImage: "assets/aboutpg.png",
   defaultLogo: "assets/images/logos/demo.png",   // fallback logo for experience/education cards            // ABOUT section photo (separate image)
   email: "satyabratabrahmachary1610@gmail.com", linkedin: "https://www.linkedin.com/in/satyabrata16/", github: "https://github.com/Satyabrata1170",
-  instagram: "https://www.instagram.com/imsitu._/", facebook: "https://www.facebook.com/satyabratananda.brahmachary", resume: "assets/Resume-Satyabrata.pdf",mobile: "+91 84579 41170", hometown: "Balasore, Odisha, India",
+  instagram: "https://www.instagram.com/imsitu._/", facebook: "https://www.facebook.com/satyabratananda.brahmachary", resume: "assets/Resume-Satyabrata.pdf",mobile: "+91 8457X XXXXX", hometown: "Balasore, Odisha, India",
   // location: { label: "Marathahalli, Bengaluru", query: "Marathahalli, Bengaluru, Karnataka, India", zoom: 14 },
   location: { label: "Bangalore", query: "Bangalore, Karnataka, India", zoom: 11 },
   heroDescription: "I am a passionate data professional interested in transforming complex data into meaningful insights through analytics, business intelligence, and intelligent technology.",
